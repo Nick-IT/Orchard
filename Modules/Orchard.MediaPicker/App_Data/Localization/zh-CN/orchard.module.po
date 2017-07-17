@@ -1,0 +1,489 @@
+#. "Name"
+#: "~/Modules/Orchard.MediaPicker/Module.txt"
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "Media Picker"
+msgstr "媒体选择器"
+
+#. "Author"
+#: "~/Modules/Orchard.MediaPicker/Module.txt"
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard团队"
+
+#. "Website"
+#: "~/Modules/Orchard.MediaPicker/Module.txt"
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.MediaPicker/Module.txt"
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "UI for browsing for, uploading, or selecting an image for an HTML editor."
+msgstr "用于浏览、 上传，或选择图像的 HTML 编辑器用户界面。"
+
+#: "Orchard.MediaPicker.Controllers.AdminController"
+msgctxt "Orchard.MediaPicker.Controllers.AdminController"
+msgid "Couldn't create media folder"
+msgstr "不能建立媒体文件夹"
+
+#: "Orchard.MediaPicker.Controllers.AdminController"
+msgctxt "Orchard.MediaPicker.Controllers.AdminController"
+msgid "Creating Folder failed: {0}"
+msgstr "建立文件夹错误：{0}"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr "字段 {0} 是必须的"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "The field {0} doesn't accept multiple media items"
+msgstr "字段 {0} 不接受多个媒体项目"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "Items"
+msgstr "项目"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "A Json serialized list of the media."
+msgstr "一个 Json 序列化的媒体的列表。"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "The field {0} must have one of these extensions: {1}"
+msgstr "字段 {0} 必须具有这些扩展名之一： {1}"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr "字段 {0} 是必须的"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "Url"
+msgstr "URL"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "The url of the media."
+msgstr "媒体的 URL。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Media Picker Field"
+msgstr "媒体选取器字段"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Tokens for Media Picker Fields"
+msgstr "媒体选择器字段的标记"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Url"
+msgstr "URL"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The url of the media."
+msgstr "媒体的 URL。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Alternate Text"
+msgstr "备用文本(alt)"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The alternate text of the media."
+msgstr "媒体的备用文本。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Class"
+msgstr "Class类"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The class of the media."
+msgstr "媒体的 HTML 类。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Style"
+msgstr "样式"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The style of the media."
+msgstr "媒体的样式。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Alignment"
+msgstr "对齐方式"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The alignment of the media."
+msgstr "媒体的对齐方式。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Width"
+msgstr "宽度"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The width of the media."
+msgstr "媒体的宽度。"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Height"
+msgstr "高度"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The height of the media."
+msgstr "媒体的高度。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Pick Image"
+msgstr "选择图片"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Cannot perform requested operation"
+msgstr "不能执行请求操作"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Authentication timed-out: please log-on again"
+msgstr "身份验证超时： 请再次登录"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Update/Upload Image"
+msgstr "更新/上传图片"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Insert/Upload Image"
+msgstr "插入/上传图片"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Browse Media"
+msgstr "浏览媒体文件"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Media Folders"
+msgstr "媒体文件夹"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Create Folder"
+msgstr "新建文件夹"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "This is a table of the images currently available for use in your application."
+msgstr "下表列出在您的应用中能使用的图片。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Folder"
+msgstr "文件夹"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Added on"
+msgstr "添加"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Size"
+msgstr "尺寸"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Upload an image from your computer"
+msgstr "从本机上传图片"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "URL"
+msgstr "URL"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Alternative Text"
+msgstr "替换文字"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Class"
+msgstr "类"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Style"
+msgstr "样式"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Alignment"
+msgstr "对齐"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Width"
+msgstr "宽度"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Height"
+msgstr "高度"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Lock Aspect Ratio"
+msgstr "锁定长宽比"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Insert"
+msgstr "插入"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Update"
+msgstr "更新"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Cancel"
+msgstr "取消"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Preview of Image"
+msgstr "图片预览"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "URL for the image resource"
+msgstr "图片URL"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Upload an image from your computer"
+msgstr "从本机上传图片"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Alternative Text"
+msgstr "替换文字"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Class"
+msgstr "类"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Style"
+msgstr "样式"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Alignment"
+msgstr "对齐"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Width"
+msgstr "宽度"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Height"
+msgstr "高度"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Lock Aspect Ratio"
+msgstr "锁定长宽比"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Insert"
+msgstr "插入"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Update"
+msgstr "更新"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Cancel"
+msgstr "取消"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "A media is required"
+msgstr "一个媒体是必须的"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Check to ensure the user is providing at least one media."
+msgstr "选中以确保用户提供至少一个媒体项。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Allow only specific extensions"
+msgstr "允许仅指定的扩展名"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "You can define a set of extensions the user will be able to pick, separated by spaces, e.g. jpg png gif"
+msgstr "您可以定义一组扩展名让用户选取，用空格分隔开，例如 jpg png gif"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Leave it empty if you don't want to apply any restriction."
+msgstr "如果不想限制请保持为空"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Allow multiple media items"
+msgstr "允许多个媒体项目"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Check to allow the user to select multiple media items."
+msgstr "选中以允许用户选择多个媒体项目。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Help text"
+msgstr "帮助文本"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are selecting media items."
+msgstr "作者选择媒体项时该字段下写的帮助文本。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "The media is required"
+msgstr "媒体是必填的"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Check to ensure the user is providing a valid media for this field."
+msgstr "选中以确保用户为此字段提供一个有效的媒体。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Allow only specific extensions"
+msgstr "仅允许指定的扩展名"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "You can define a set of extensions the user will be able to pick, separated by spaces, e.g. jpg png gif"
+msgstr "您可以定义一组扩展名让用户选取，用空格分隔开，例如 jpg png gif"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Leave it empty if you don't want to apply any restriction."
+msgstr "如果不想限制请保持为空。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Provide custom parameters"
+msgstr "提供自定义参数"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom parameters can be used if your own views."
+msgstr "如果您有自己的视图的话可以使用自定义参数。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom1"
+msgstr "自定义1"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom2"
+msgstr "自定义2"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom3"
+msgstr "自定义3"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Help text"
+msgstr "帮助文本"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are selecting a media."
+msgstr "作者选择媒体时该字段下写的帮助文本。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "You need to save your changes."
+msgstr "你需要保存更改。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Media"
+msgstr "媒体"
+
+#. "Edit"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Edit"
+msgstr "编辑"
+
+#. "Remove"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Remove"
+msgstr "移除"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Add"
+msgstr "添加"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgid "Browse"
+msgstr "浏览"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgid "Clear"
+msgstr "清除"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.cshtml"
+msgid "No media."
+msgstr "没有媒体。"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.SummaryAdmin.cshtml"
+msgid "No media."
+msgstr "没有媒体。"
+

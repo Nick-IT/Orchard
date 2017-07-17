@@ -1,0 +1,184 @@
+#. "Name"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Import Export"
+msgstr "导入导出"
+
+#. "Author"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard团队"
+
+#. "Website"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.ImportExport/Module.txt"
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Provides content item data import and export capability."
+msgstr "提供内容项目数据导入导出能力。"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Import/Export"
+msgstr "导入/导出"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Import"
+msgstr "导入"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Export"
+msgstr "导出"
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Invalid file path"
+msgstr "无效的文件路径"
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "File not found."
+msgstr "找不到文件。"
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Import running..."
+msgstr "导入正在运行..."
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Not allowed to import."
+msgstr "没有导入权限。"
+
+#. "Please choose a recipe file to import."
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Please choose a recipe file to import."
+msgstr "请选择要导入的源文件"
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Your recipe has been imported."
+msgstr "源文件已被导入。"
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Not allowed to export."
+msgstr "没有导出权限。"
+
+#. "Export"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Export"
+msgstr "输出"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Choose the types to include in the export file:"
+msgstr "选择包含导出文件的类型："
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Choose what to save for these types:"
+msgstr "选择要保存的类型："
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Metadata"
+msgstr "元数据"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Metadata is the definition of your content types: what parts and fields they have, with what settings."
+msgstr "元数据是你的内容类型的定义：他们的部分、字段及其设置。"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Data"
+msgstr "数据"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Data is the actual content of your site."
+msgstr "数据是您网站的实际内容。"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Version History"
+msgstr "历史版本"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Only Published Versions"
+msgstr "只已发布版本"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Only Drafts"
+msgstr "只草稿"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Site Settings"
+msgstr "网站设置"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Please verify that you are not exporting confidential information, such as passwords or application keys."
+msgstr "请确认你并未导出的机密信息，如密码或应用程序键。"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Choose the custom steps to execute in the export file:"
+msgstr "选择要在导出文件中执行自定义的步骤："
+
+#. "Import"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Import"
+msgstr "导入"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Choose a recipe file to import. Please consider {0} or backing up your data first."
+msgstr "选择要导入的配方文件。请考虑 {0} 或首先备份您的数据。"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "exporting"
+msgstr "导出中"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Recipe File:"
+msgstr "源文件："
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Import Result"
+msgstr "导入结果"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Status"
+msgstr "状态"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "These are messages logged during the import process"
+msgstr "这些都是在导入过程中记录的消息"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Message"
+msgstr "消息"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Close"
+msgstr "关闭"
+

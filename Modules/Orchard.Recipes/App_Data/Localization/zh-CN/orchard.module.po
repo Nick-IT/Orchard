@@ -1,0 +1,94 @@
+#. "Name"
+#: "~/Modules/Orchard.Recipes/Module.txt"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "Recipes"
+msgstr "安装配置"
+
+#. "Author"
+#: "~/Modules/Orchard.Recipes/Module.txt"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard团队"
+
+#. "Website"
+#: "~/Modules/Orchard.Recipes/Module.txt"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Description"
+#: "~/Modules/Orchard.Recipes/Module.txt"
+msgctxt "~/Modules/Orchard.Recipes/Module.txt"
+msgid "Provides Orchard Recipes."
+msgstr "提供Orchard方法。"
+
+#. "Could not discover recipes because module '{0}' was not found."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Could not discover recipes because module '{0}' was not found."
+msgstr "由于“{0}”模块未找到，因此无法找到安装配置。"
+
+#. "No recipes found for extension {0}."
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "No recipes found for extension {0}."
+msgstr "扩展{0}中未发现方法。"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "List of available recipes"
+msgstr "可用方法列表"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Recipe: {0}"
+msgstr "方法：{0}"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Version:     {0}"
+msgstr "版本：{0}"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Tags:        {0}"
+msgstr "标签：{0}"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Description: {0}"
+msgstr "说明：{0}"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Author:      {0}"
+msgstr "作者：{0}"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "  Website:     {0}"
+msgstr "网站：{0}"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Invalid recipe name {0}."
+msgstr "无效方法名称{0}。"
+
+#: "Orchard.Recipes.Commands.RecipesCommands"
+msgctxt "Orchard.Recipes.Commands.RecipesCommands"
+msgid "Recipe scheduled for execution successfully."
+msgstr "方法计划执行成功。"
+
+#: "Orchard.Recipes.Services.RecipeStepExecutor"
+msgctxt "Orchard.Recipes.Services.RecipeStepExecutor"
+msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the error logs for more information."
+msgstr "Id 为 {0} 的安装配置执行被取消，因为\"{1}\"步未能执行。引发下列异常： {2}.请参阅错误日志获得更多详细信息。"
+
+#: "Orchard.Recipes.Services.RecipeStepExecutor"
+msgctxt "Orchard.Recipes.Services.RecipeStepExecutor"
+msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the error logs for more information."
+msgstr "Id 为 {0} 的安装配置执行被取消，因为找不到\"{1}\"步的配方处理程序。请参阅错误日志的详细信息。"
+

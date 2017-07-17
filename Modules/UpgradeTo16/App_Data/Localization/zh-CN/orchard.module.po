@@ -1,0 +1,204 @@
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "UpgradeTo16"
+msgstr "UpgradeTo16"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "Description for the module"
+msgstr "模块描述"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "UpgradeTo16.Description"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "Description for feature UpgradeTo16."
+msgstr "UpgradeTo16 的模块描述"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Upgrade to 1.6"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Upgrade to 1.6"
+msgstr "升级到 1.6"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Routes"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Routes"
+msgstr "迁移路由设置"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Fields"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Fields"
+msgstr "迁移字段"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Menu"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Menu"
+msgstr "迁移菜单"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "There are no content types with custom fields"
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "There are no content types with custom fields"
+msgstr "没有带自定义字段的内容类型"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr "你需要启用 Orchard.Fields 以迁移当前字段。之后你可以安全地删除 Contrib.DateTimeField 和 Contrib.MediaPickerField。"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "Not allowed to migrate fields."
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "Not allowed to migrate fields."
+msgstr "不允许迁移字段。"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "{0} fields were migrated successfully"
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "{0} fields were migrated successfully"
+msgstr "{0} 个字段已成功迁移"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "This step is unnecessary as some menus already exist."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "This step is unnecessary as some menus already exist."
+msgstr "如果某些菜单已经存在，此步骤是不必要的。"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Not allowed to migrate the navigation."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Not allowed to migrate the navigation."
+msgstr "不允许迁移导航。"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Main menu created"
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Main menu created"
+msgstr "已创建主菜单"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Menu items moved to Main menu"
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Menu items moved to Main menu"
+msgstr "移动到主菜单的菜单项"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Widget could not be created. Please create it manually."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Widget could not be created. Please create it manually."
+msgstr "不能创建部件，请手工创建它。"
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "There are no content types with RoutePart"
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "There are no content types with RoutePart"
+msgstr "没有包含 RoutePart 的内容类型"
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "Not allowed to migrate routes."
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "Not allowed to migrate routes."
+msgstr "不允许迁移路由设置。"
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr "一些内容项目可能不会导入。请参阅相应的报告。"
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "{0} was migrated successfully"
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "{0} was migrated successfully"
+msgstr "{0} 已成功迁移"
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Migrate Fields"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Migrate Fields"
+msgstr "迁移字段"
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr "选择要迁移的类型："
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgstr "迁移操作将处理字段字段数据。如果你已经安装了这些模块的话，你仍然需要启用 Orchard.Fields 并删除 Contrib.DateTime 和 Contrib.MediaPicker。"
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Migrate"
+msgstr "迁移"
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrate Menu"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrate Menu"
+msgstr "迁移菜单"
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrating Menu:"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrating Menu:"
+msgstr "正在迁移菜单："
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "This migration step will create a new Menu named \"Main Menu\" and add all your previous menu items to it. Finally it will create a new \"Menu Widget\" instance to render this menu on the website."
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "This migration step will create a new Menu named \"Main Menu\" and add all your previous menu items to it. Finally it will create a new \"Menu Widget\" instance to render this menu on the website."
+msgstr "此迁移步骤将创建名为\"主菜单\"的新菜单并且添加你以前的菜单项到它。最后它会创建一个新的\"菜单部件\"实例来呈现网站上的菜单。"
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrate"
+msgstr "迁移"
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Migrate Routes"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Migrate Routes"
+msgstr "迁移路由设置"
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr "选择要迁移的类型："
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgstr "迁移过程将会通过添加自动路由和一个标题元件的方式为选择的内容类型移动路由和标题属性"
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Migrate"
+msgstr "迁移"
+
